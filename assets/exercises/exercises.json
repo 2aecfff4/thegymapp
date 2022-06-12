@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "name": "Bench Press (Barbell)",
+        "description": "description",
+        "category": "Chest"
+    },
+    {
+        "id": 1,
+        "name": "Sumo Deadlift (Barbell)",
+        "description": "description",
+        "category": "Legs"
+    },
+    {
+        "id": 2,
+        "name": "Incline Bench Press (Barbell)",
+        "description": "description",
+        "category": "Chest"
+    },
+    {
+        "id": 3,
+        "name": "Squat (Barbell)",
+        "description": "description",
+        "category": "Legs"
+    },
+    {
+        "id": 4,
+        "name": "Lat Pulldown (Cable)",
+        "description": "description",
+        "category": "Back"
+    }
+]
